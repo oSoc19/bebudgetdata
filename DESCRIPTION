@@ -1,0 +1,11 @@
+Package: bebudgetdata
+Type: Package
+Title: Data files for the BeBudget oSoc19 project
+Version: 0.1.0
+Author: Bert Jehoul
+Maintainer: jeborsel <bert@openknowledge.be>
+Description: This package contains the datafile that has been used for the Open Summer of Code 2019 BeBudget project
+    Source: NBB.Stat - National Bank of Belgium
+License: Original source: NBB.Stat - National Bank of Belgium
+Encoding: UTF-8
+LazyData: true
