@@ -7,7 +7,7 @@
 #'
 #' This is a transformation of this dataset with the amount of budget per gov type , in totals + transposed on 1000
 #'
-#' @format A data frame with 2870 rows and 13 variables:
+#' @format A data frame with 14 rows and 4 variables:
 #' \describe{
 #'   \item{Government type}{Government type naming}
 #'   \item{Value}{Amount (in millions of euro)}
@@ -15,4 +15,4 @@
 #'   \item{Valueontotal1000}{Amount when we consider the total 1000 €}
 #' }
 #' @source \url{https://stat.nbb.be/}
-"nfgovaccount"
+"budgetbygovtype"
